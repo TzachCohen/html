@@ -64,29 +64,33 @@ background-image:url(images/tab.png);
 
 #mainPicture
 {
-width:665px;
+width:650px;
 height:315px;
 background-color:#FFFFFF;
+border: solid black 5px;
 }
 
 
 #mainPicture .picture
 {
 
-width:650px;
+width:695px;
 height:315px;
 top:10px;
 background-image:url(images/anoceanofsky.jpg);
 background-repeat:no-repeat;
+
+
+
 }
 
 #headerTitle
 {
 position:relative;
-top:30px;
-left:40px;
-font-size:25px;
-color:#FFFFFF;
+top:33px;
+left:70px;
+font-size:36px;
+color:#556B2F;
 font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
 }
 
@@ -95,8 +99,8 @@ font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
 position:relative;
 top:30px;
 left:50px;
-font-size:14px;
-color:#A9C8FA;
+font-size:29px;
+color:#556B2F;
 font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
 }
 
@@ -110,13 +114,13 @@ background-color:#FFFFFF;
 .contentBox .innerBox
 {
 position:relative;
-margin-top:10px;
+margin-top:auto;
 width:650px;
 height:auto;
 top:10px;
 background-image:url(images/content_back.png);
 background-repeat:repeat-x;
-padding-bottom:35px;
+padding-bottom:25px;
 }
 
 .contentTitle
@@ -139,15 +143,15 @@ font-style:bold;
 
 #footer {
 
-width: 670px;
-height:16px;
+width: 601px;
+height:18px;
 background: url(images/footer.png) no-repeat;
 text-align:center;
 font-size:9px;
 font-family:Arial, Helvetica, sans-serif;
 color:#386172;
-padding-top:5px;
-f
+padding-top:1px;
+text-decoration: color:black;
 }
 
 #footer a  {
@@ -176,7 +180,8 @@ margin-right:13px;
 	 display: block;
   margin-left: auto;
   margin-right: auto;
-  width="600px"
+  width:600px;
+  border:solid #6495ED 5px
 }
 
 .gallery {
@@ -190,5 +195,18 @@ margin-right:13px;
 }
 .margin {
 	
-	margin:5px
+	margin:17px
+}
+
+.border {
+	color:rad;
+	border:solid 13px;
+}
+
+#fewwords {
+	text-align: center;
+	color:#556B2F;
+	font-size:30px;
+	text-decoration: underline;
+}
 }
