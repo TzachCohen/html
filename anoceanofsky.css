@@ -213,4 +213,42 @@ font-family:Arial;
 	font-size:28px;
 	text-decoration: underline;
 }
+
+#contact {
+
+    border-radius: 3px;
+    padding: 25px 30px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+  
+	
 }
+
+.mydetails  {
+	text-align:center;
+	margin:center;
+	color:black;
+	border:solid 3px;
+width: 30%;
+}
+
+.container {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+ margin:center;
+ 
+}
+.border1 {
+	border:solid black;
+	text-align:center;
+	margin-top:40px;
+	color:black;
+	background-color;yellow;
+	
+}
+
+	
