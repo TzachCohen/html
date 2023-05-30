@@ -229,9 +229,10 @@ font-family:Arial;
 .mydetails  {
 	text-align:center;
 	margin:center;
-	color:#556B2F;
+	color:#4CAF50;
 font-size:50px;
- padding-left: 120px;
+ padding-left: 80px;
+
 }
 
 .container {
@@ -244,12 +245,15 @@ font-size:50px;
  
 }
 .border1 {
-	border:solid black ;
+	
 	text-align:center;
 	margin-top:40px;
-	color:black;
+	color:white;
 	 padding-left: 110px;
-	 
+	  border:solid gray 3px;
+	padding-right:10px;
+	border:none;
+	color:green;
 }
 
 .aboutme {
@@ -260,4 +264,9 @@ display: block;
   width:600px;
   text-align:center;
   margin-left:10px
+}
+.th  {
+	color:white;
+	text-align:center;
+	background-color:black;
 }
