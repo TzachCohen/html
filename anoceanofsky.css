@@ -33,7 +33,7 @@ padding-left: 170px;
 {
 text-align:center;
 position:relative;
-margin-top:30px;
+margin-top:70px;
 font-size:16px;
 margin-left:-10px;
 width:121px;
@@ -68,6 +68,7 @@ width:650px;
 height:315px;
 background-color:#FFFFFF;
 border: solid black 5px;
+margin-top:70px;
 }
 
 
@@ -110,18 +111,30 @@ font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
 width:670px;
 height:auto;
 background-color:#FFFFFF;
+margin-top:70px;
+
+
 }
 
+.contentBoxahome
+{
+width:670px;
+height:auto;
+background-color:#FFFFFF;
+border:solid gray 5px;
+margin-top:5px;
+}
 .contentBox .innerBox
 {
 position:relative;
-margin-top:auto;
+margin-top:20px;
 width:650px;
 height:auto;
 top:10px;
 background-image:url(images/content_back.png);
 background-repeat:repeat-x;
 padding-bottom:25px;
+
 }
 
 .contentTitle
@@ -230,18 +243,18 @@ font-family:Arial;
 	text-align:center;
 	margin:center;
 	color:#4CAF50;
-font-size:50px;
- padding-left: 80px;
+	font-size:50px;
+ 
 
 }
 
 .container {
-  max-width: 1000px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 10px;
-  padding-right: 10px;
- margin:center;
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin:center;
  
 }
 .border1 {
@@ -249,8 +262,8 @@ font-size:50px;
 	text-align:center;
 	margin-top:40px;
 	color:white;
-	 padding-left: 110px;
-	  border:solid gray 3px;
+	padding-left: 110px;
+	border:solid gray 3px;
 	padding-right:10px;
 	border:none;
 	color:green;
@@ -258,12 +271,13 @@ font-size:50px;
 
 .aboutme {
 
-display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width:600px;
-  text-align:center;
-  margin-left:10px
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width:600px;
+	text-align:center;
+	margin-left:10px;
+	border:solid black 5px;
 }
 .th  {
 	color:white;
