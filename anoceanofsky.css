@@ -66,7 +66,7 @@ background-image:url(images/tab.png);
 #mainPicture
 {
 width:920px;
-height:750px;
+height:730px;
 background-color:#FFFFFF;
 border: solid black 5px;
 margin-top:72px;
@@ -92,21 +92,21 @@ position:relative;
 top:41px;
 left:352px;
 font-size:43px;
-color:blue;
+color:#CD853F;
 font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
-text-shadow: 2px 2px 5px #556B2F;
+text-shadow: 2px 2px 5px #FFF5EE;
 }
 
 #headerSubtext
 {
 font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
-color:blue;
+color:#3CB371;
 font-size:34px;
 position:relative;
 top:68px;
 left:410px;
 margin-left;40px;
-
+text-shadow: 2px 2px 5px #000000;
 }
 
 .contentBox
@@ -251,7 +251,7 @@ text-align:left;
 	margin:center;
 	color:#4CAF50;
 	font-size:50px;
-	margin-left:150px
+	margin-left:-160px
  
 
 }
@@ -261,7 +261,6 @@ text-align:left;
 	margin-left: auto;
 	margin-right: auto;
 	padding-left: 10px;
-	padding-right: 10px;
 	margin:center;
  
 }
