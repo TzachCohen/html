@@ -91,8 +91,8 @@ background-repeat:no-repeat;
 position:relative;
 top:41px;
 left:352px;
-font-size:43px;
-color:#CD853F;
+font-size:45px;
+color:#FFA500;
 font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
 text-shadow: 2px 2px 5px #FFF5EE;
 }
@@ -101,7 +101,7 @@ text-shadow: 2px 2px 5px #FFF5EE;
 {
 font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
 color:#3CB371;
-font-size:34px;
+font-size:37px;
 position:relative;
 top:68px;
 left:410px;
@@ -210,12 +210,13 @@ text-align:left;
 }
 
 .gallery {
-	margin-top: 9%;
+	margin-top: 3.5%;
 	 width:95%;
 	 height:30%px;
 	background-repeat:no-repeat;
 	position:center;
 	 text-align: center;
+	 
 }
 .margin {
 	
@@ -293,4 +294,15 @@ text-align:left;
 	background-color:black;
 	margin-left:260px;
 
+}
+.icon {
+		margin:60px;
+		padding:10px;
+	letter-spacing:55px;
+	margin-left:-90px;
+}
+
+.flag {
+	
+	text-align:left;
 }
