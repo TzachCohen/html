@@ -116,6 +116,7 @@ height:auto;
 background-color:#FFFFFF;
 margin-top:70px;
 margin-left:450px;
+text-align:center;
 
 }
 
@@ -213,13 +214,13 @@ text-align:left;
 	 width:95%;
 	 height:30%px;
 	background-repeat:no-repeat;
-	position:relative;
-	padding: 5%;
+	position:center;
 	 text-align: center;
 }
 .margin {
 	
-	margin:17px
+	margin:4px
+
 }
 
 .border {
