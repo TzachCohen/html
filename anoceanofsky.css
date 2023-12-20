@@ -7,7 +7,7 @@ Free use with link
 body {
 	margin: 0;
 	padding: 0;
-	text-align: center;
+	text-align: left;
 	font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
 	font-size: 13px;
 	color: #061C37;
@@ -26,7 +26,7 @@ padding-left: 170px;
   height:auto;
   position: relative; 
   overflow: hidden; 
-  width: auto;
+  width: 50%;
   font-size:20px;
 }
 
@@ -36,6 +36,7 @@ text-align:center;
 position:relative;
 margin-top:70px;
 font-size:20px;
+margin-left:20px;
 width:121px;
 height: 35px;
 line-height: 35px;
@@ -69,7 +70,7 @@ height:730px;
 background-color:#FFFFFF;
 border: solid black 5px;
 margin-top:72px;
-
+margin-left:400px;
 }
 
 
@@ -88,7 +89,8 @@ background-repeat:no-repeat;
 #headerTitle
 {
 position:relative;
-
+top:41px;
+left:352px;
 font-size:45px;
 color:#FFA500;
 font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
@@ -101,9 +103,10 @@ font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
 color:#3CB371;
 font-size:37px;
 position:relative;
-
+top:68px;
+left:410px;
+text-shadow:2px 2px 5px #000000;
 margin-left;40px;
-text-shadow: 2px 2px 5px #000000;
 }
 
 .contentBox
@@ -112,6 +115,7 @@ width:800px;
 height:auto;
 background-color:#FFFFFF;
 margin-top:70px;
+margin-left:450px;
 text-align:center;
 
 }
@@ -120,9 +124,11 @@ text-align:center;
 {
 width:916px;
 height:auto;
-background-color:#FFFFFF;
+background-color:#FFEBCD;
 border:solid gray 5px;
-margin-top:5px;
+margin-top:1px;
+margin-left:403px;
+
 
 }
 .contentBox .innerBox
@@ -135,7 +141,7 @@ top:12px;
 background-image:url(images/content_back.png);
 background-repeat:repeat-x;
 padding-bottom:25px;
-
+margin-left:25px;
 
 
 }
@@ -151,7 +157,7 @@ margin-top:15px;
 
 .contentText
 {
-font-size:15px;
+font-size:18px;
 line-height:24px;
 margin-left:13px;
 margin-right:13px;
@@ -184,6 +190,7 @@ font-family:Arial;
 width:80%;
 font-weight:bold;
 text-align:center;
+
  
 }
 
@@ -204,15 +211,20 @@ text-align:left;
   width:600px;
   border:solid #6495ED 5px
 }
-
+.thilandimage2 {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:600px;
+  border:solid gray 5px
+}
 .gallery {
-	margin-top: 5%;
-	 width:100%;
-
+	margin-top: 3.5%;
+	 width:95%;
+	 height:30%px;
 	background-repeat:no-repeat;
 	position:center;
 	 text-align: center;
-	
 	 
 }
 .margin {
@@ -250,6 +262,7 @@ text-align:left;
 	margin:center;
 	color:#4CAF50;
 	font-size:50px;
+	margin-left:-240px
  
 
 }
@@ -262,8 +275,6 @@ text-align:left;
 	margin:center;
  
 }
-
-  
 .border1 {
 	
 	text-align:center;
@@ -290,23 +301,18 @@ text-align:left;
 	color:white;
 	text-align:center;
 	background-color:black;
-
+	margin-left:260px;
 
 }
 .icon {
 		margin:60px;
 		padding:10px;
-	letter-spacing:55px;
+	letter-spacing:115px;
+	margin-left:-90px;
+	text-decoration:none;
 }
 
 .flag {
 	
 	text-align:left;
-}
-
-.imgsize  {
-	
-	text-align:center;
-	width:30%;
-	margin:4px
 }
